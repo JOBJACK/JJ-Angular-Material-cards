@@ -1,3 +1,3 @@
 # JJ-Angular-Material-cards
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-xnzhva)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/jj-cards)
