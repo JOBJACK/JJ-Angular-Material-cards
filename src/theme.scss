@@ -37,3 +37,32 @@ button {
   border-radius: 20px !important;
   padding: 10px, 24px !important;
 }
+
+// Cards
+.mat-card.elevated {
+  background-color: #FBFDF9;
+  //box-shadow: 0px 2px 6px 2px #00000026;
+  box-shadow: 0px 1px 2px 0px #0000004D;
+}
+
+.mat-card.elevated:hover {
+  box-shadow: 0px 2px 6px 2px #00000026;
+}
+
+.mat-card.filled {
+  background-color: #DBE5DE;
+}
+
+.mat-card.filled:hover {
+  box-shadow: 0px 2px 6px 2px #00000026;
+  //box-shadow: 0px 1px 2px 0px #0000004D;
+}
+
+.mat-card.outline {
+  background-color: #FBFDF9;
+  outline: #707974 solid 1px;
+}
+
+.mat-card.outline:hover {
+  outline: #006C51 solid 1px;
+}
